@@ -1,9 +1,9 @@
-#Finance Tracker
+# Finance Tracker
 
 This will be a simple finance portfolio site that I will be using to practice 
 getting data from web-based APIs. 
 
-##Specs:
+## Specs:
 
 * Ruby 2.7.1 
 
