@@ -1,7 +1,7 @@
 #Finance Tracker
 
 This will be a simple finance portfolio site that I will be using to practice 
-using web-based APIs. 
+getting data from web-based APIs. 
 
 ##Specs:
 
