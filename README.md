@@ -3,8 +3,7 @@
 This will be a simple finance portfolio site that I will be using to practice 
 getting data from web-based APIs. 
 
-The development of this site has finished but I'm having the hardest time hosting
-it on Heroku.
+The development of this site has finished and it is being removed from live servers on Heroku.
 
 
 ## Features: 
